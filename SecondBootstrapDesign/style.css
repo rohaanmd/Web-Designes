@@ -1,0 +1,67 @@
+
+.col-md-12{
+    background-color: lightgreen;
+}
+
+.nav .nav-link{
+    color:#111;
+}
+
+.nav-link:hover{
+    background-color: limegreen;
+}
+
+
+#search{
+    margin-left:auto;
+    margin-top:5px 0px 5px;
+    border-radius: 20px;
+    padding-left:10px;
+    border:none;
+    outline: none;
+}
+#search:focus{
+    border:2px solid lightskyblue;
+}
+i{
+    margin:auto 0px auto 7px;
+    cursor: pointer;
+}
+
+body{
+    font-family: 'Gowun Dodum', sans-serif;
+    background-color: #c1c1c1;
+}
+
+#brand{
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+}
+img{
+    padding: 10px;
+    box-sizing: border-box;
+    width:101%;
+    height: 60vh;
+    border: 5px solid blueviolet;
+}
+.row:nth-of-type(2){
+    background-color: lightskyblue;
+}
+
+.col-md-8,.col-md-4{
+    text-align: justify;
+}
+
+#form{
+    background-color: lightyellow;
+}
+.form-control{
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.btn{
+    width: 100%;
+    margin-bottom: 8px;
+}
